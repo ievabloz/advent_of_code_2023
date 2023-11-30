@@ -1,0 +1,7 @@
+echo "# advent_of_code_2023" >> README.md
+  git init
+  git add README.md
+  git commit -m "idk how any of this works"
+  git branch -M main
+  git remote add origin https://github.com/ievabloz/advent_of_code_2023.git
+  git push -u origin main
